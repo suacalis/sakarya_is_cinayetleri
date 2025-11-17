@@ -1,0 +1,32 @@
+tarih,yer,isim,neden,sektor,lat,lng,link,olum_sayisi
+2024-01-15,Serdivan. Sakarya,Örnek Çalışan,Yüksekten düşme,İnşaat,40.7904,30.3619,https://example.com,1
+2024-02-14,Adapazarı. Sakarya,Adapazarı Örnek 1,Makine sıkışması,Tarım,40.7731,30.4,https://ornek-haber.com,3
+2024-05-18,Adapazarı. Sakarya,Adapazarı Örnek 2,Elektrik çarpması,İnşaat,40.7731,30.4,https://ornek-haber.com,1
+2024-06-16,Serdivan. Sakarya,Serdivan Örnek 1,Makine sıkışması,İmalat,40.7781,30.354,https://ornek-haber.com,3
+2024-06-19,Serdivan. Sakarya,Serdivan Örnek 2,Yüksekten düşme,Lojistik,40.7781,30.354,https://ornek-haber.com,3
+2024-04-05,Erenler. Sakarya,Erenler Örnek 1,Makine sıkışması,İnşaat,40.7569,30.4023,https://ornek-haber.com,1
+2024-04-24,Erenler. Sakarya,Erenler Örnek 2,Yüksekten düşme,İmalat,40.7569,30.4023,https://ornek-haber.com,3
+2024-01-03,Arifiye. Sakarya,Arifiye Örnek 1,Makine sıkışması,Lojistik,40.714,30.396,https://ornek-haber.com,3
+2024-05-02,Arifiye. Sakarya,Arifiye Örnek 2,Makine sıkışması,Madencilik,40.714,30.396,https://ornek-haber.com,1
+2024-02-23,Sapanca. Sakarya,Sapanca Örnek 1,Servis aracı kazası,Lojistik,40.691,30.267,https://ornek-haber.com,2
+2024-03-26,Sapanca. Sakarya,Sapanca Örnek 2,Malzeme çarpması,İnşaat,40.691,30.267,https://ornek-haber.com,1
+2024-06-12,Akyazı. Sakarya,Akyazı Örnek 1,Servis aracı kazası,Lojistik,40.6865,30.6227,https://ornek-haber.com,1
+2024-06-21,Akyazı. Sakarya,Akyazı Örnek 2,Yüksekten düşme,Tarım,40.6865,30.6227,https://ornek-haber.com,2
+2024-03-30,Hendek. Sakarya,Hendek Örnek 1,Yüksekten düşme,İnşaat,40.7994,30.7486,https://ornek-haber.com,1
+2024-06-11,Hendek. Sakarya,Hendek Örnek 2,Elektrik çarpması,Lojistik,40.7994,30.7486,https://ornek-haber.com,1
+2024-04-30,Karasu. Sakarya,Karasu Örnek 1,Elektrik çarpması,İnşaat,41.0711,30.786,https://ornek-haber.com,1
+2024-01-05,Karasu. Sakarya,Karasu Örnek 2,Makine sıkışması,Tarım,41.0711,30.786,https://ornek-haber.com,1
+2024-01-29,Kocaali. Sakarya,Kocaali Örnek 1,Servis aracı kazası,Lojistik,41.0531,30.85,https://ornek-haber.com,1
+2024-01-12,Kocaali. Sakarya,Kocaali Örnek 2,Yüksekten düşme,Madencilik,41.0531,30.85,https://ornek-haber.com,2
+2024-05-27,Pamukova. Sakarya,Pamukova Örnek 1,Servis aracı kazası,Madencilik,40.5119,30.1677,https://ornek-haber.com,3
+2024-04-13,Pamukova. Sakarya,Pamukova Örnek 2,Servis aracı kazası,İnşaat,40.5119,30.1677,https://ornek-haber.com,1
+2024-06-06,Geyve. Sakarya,Geyve Örnek 1,Elektrik çarpması,Lojistik,40.5075,30.2925,https://ornek-haber.com,1
+2024-06-29,Geyve. Sakarya,Geyve Örnek 2,Makine sıkışması,Lojistik,40.5075,30.2925,https://ornek-haber.com,1
+2024-03-14,Taraklı. Sakarya,Taraklı Örnek 1,Malzeme çarpması,İmalat,40.3961,30.4931,https://ornek-haber.com,5
+2024-04-04,Taraklı. Sakarya,Taraklı Örnek 2,Yüksekten düşme,Tarım,40.3961,30.4931,https://ornek-haber.com,2
+2024-04-13,Söğütlü. Sakarya,Söğütlü Örnek 1,Servis aracı kazası,Tarım,40.902,30.444,https://ornek-haber.com,1
+2024-06-28,Söğütlü. Sakarya,Söğütlü Örnek 2,Servis aracı kazası,İmalat,40.902,30.444,https://ornek-haber.com,1
+2024-04-15,Ferizli. Sakarya,Ferizli Örnek 1,Yüksekten düşme,Tarım,40.94,30.483,https://ornek-haber.com,2
+2024-04-15,Ferizli. Sakarya,Ferizli Örnek 2,Yüksekten düşme,Tarım,40.94,30.483,https://ornek-haber.com,1
+2024-06-18,Kaynarca. Sakarya,Kaynarca Örnek 1,Yüksekten düşme,İnşaat,41.0345,30.3115,https://ornek-haber.com,1
+2024-01-11,Kaynarca. Sakarya,Kaynarca Örnek 2,Malzeme çarpması,İnşaat,41.0345,30.3115,https://ornek-haber.com,1
